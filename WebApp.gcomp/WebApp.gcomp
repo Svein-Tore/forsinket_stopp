@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="4B5318E58CDA240BE0C7121D4E6C00776A7FEC4BE8EF7976330108ADABFF274435D3916512111DC7DA6376CCC88B77BCF2E8C066C54F7D5405A94D41F9E90698" Timestamp="1D901AF56DB0834" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="50DB2CF3D7A85526665EFBBB21FD66464A97090C6C8E33A1D858DE1D754FED0FAA36B8E4A1733C5AC8EA128646B147DEAF2290D24F4AF2B90EA85765FCBFBD28" Timestamp="1D90744B6746778" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="9.3.0.49613" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="9.0.0.0" Version="9.0.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="9.3.0.49613" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
@@ -22,6 +22,7 @@
 			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="54066224b708471399c9db518b2b7ff7" Id="d901930e3d6046ecac1f905c5c4906fd" />
 			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="cf7924a91f0d4b66bc21ecc8366b8293" Id="1a9aeb885424efcb6e7304ecfe783f8" />
 			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="f1add73de36a45b28466015b5d404d61" Id="69e83fe919284309bb360aa7973023c2" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="f4604ad729c94e70bb7702954ef38a0a" Id="3ec2ff70b50f419c93ecbdedac3d75e3" />
 		</ComponentConfiguration>
 	</ComponentDefinition>
 	<EnvoyManagerFile Id="5106c1f8c2594beab4b500eeb8196c04" xmlns="http://www.ni.com/PlatformFramework">
@@ -36,6 +37,7 @@
 					<FileReference Bindings=".png" Id="54066224b708471399c9db518b2b7ff7" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="pumpe.png" StoragePath="imgaes\pumpe.png" />
 					<FileReference Bindings=".png" Id="cf7924a91f0d4b66bc21ecc8366b8293" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="nivareg.png" StoragePath="imgaes\nivareg.png" />
 					<FileReference Bindings=".png" Id="f1add73de36a45b28466015b5d404d61" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="forsinket_stopp.png" StoragePath="imgaes\forsinket_stopp.png" />
+					<FileReference Bindings=".png" Id="f4604ad729c94e70bb7702954ef38a0a" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="niva_80.png" StoragePath="imgaes\niva_80.png" />
 				</NameScopingEnvoy>
 			</NameScopingEnvoy>
 		</EmbeddedDefinitionReference>
