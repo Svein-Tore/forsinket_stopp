@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="36C8D83C0F0A535DBDCC3A06E691C6ED01E6E86710F619CB19CF3F00F21A2829550FD947D96A8AFE98ADB44C3B59E8318BC67216644A079E501ECD950381AF4F" Timestamp="1D9A2A993EEFB4B" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="B47302E4F712AA0AF6A8D00A6CD9F70B744E92B47D41FD14B5384FC6A207ECDE0FD96106286EA4CA537DB9F7F0415D982DE048E6CF0D90BA35C099EF6FF2421F" Timestamp="1D9A2A9F7086F52" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="9.3.0.49613" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="9.3.0.49613" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="8.1.0.49152" Version="8.1.0.49152" />
@@ -355,8 +355,8 @@
 			<Label Height="[float]16" Id="761d87098f2d49bfab85f3eadc1d71e1" LabelOwner="[UIModel]c86a014cf6164c4cbf1826d879365bff" Left="[float]256" Text="[string]LED_2" Top="[float]339" Visible="[bool]False" Width="[float]32" xmlns="http://www.ni.com/PanelCommon" />
 			<UrlImage Alternate="[string]" BaseName="[string]UrlImage" Height="[float]116" Id="ca1ca58931194648a3f825ad81ba78bf" Label="[UIModel]a7f50f9ed05f4aa6ade761d0fb10ca66" Left="[float]0" Source="{DataItemBinding Id=54cb3b8309948309d2f4288f4557479}" Stretch="[SMStretch]Uniform" TabIndex="[int]12" Top="[float]312" Width="[float]139" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<Label Height="[float]16" Id="a7f50f9ed05f4aa6ade761d0fb10ca66" LabelOwner="[UIModel]ca1ca58931194648a3f825ad81ba78bf" Left="[float]0" Text="[string]URL Image_4" Top="[float]292" Visible="[bool]False" Width="[float]69" xmlns="http://www.ni.com/PanelCommon" />
-			<NumericText BaseName="[string]Numeric" Height="[float]24" Id="93202ea9d505462bbfbac88c5ad8b395" IsReadOnly="[bool]True" Label="[UIModel]ea4bcd5ab2524f7687ef12515a729044" Left="[float]340" TabIndex="[int]13" Top="[float]52" Value="{DataItemBinding Id=443ef88a7e9b4aab98acb5fc92b6c04f}" ValueFormatter="[string]LV:G6" ValueType="[Type]Double" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<Label Height="[float]16" Id="ea4bcd5ab2524f7687ef12515a729044" LabelOwner="[UIModel]93202ea9d505462bbfbac88c5ad8b395" Left="[float]340" Text="[string]Sekund" Top="[float]32" Visible="[bool]False" Width="[float]40" xmlns="http://www.ni.com/PanelCommon" />
+			<NumericText BaseName="[string]Numeric" Height="[float]24" Id="93202ea9d505462bbfbac88c5ad8b395" IsReadOnly="[bool]True" Label="[UIModel]ea4bcd5ab2524f7687ef12515a729044" Left="[float]179" TabIndex="[int]13" Top="[float]416" Value="{DataItemBinding Id=443ef88a7e9b4aab98acb5fc92b6c04f}" ValueFormatter="[string]LV:G6" ValueType="[Type]Double" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<Label Height="[float]16" Id="ea4bcd5ab2524f7687ef12515a729044" LabelOwner="[UIModel]93202ea9d505462bbfbac88c5ad8b395" Left="[float]179" Text="[string]Sekund" Top="[float]396" Visible="[bool]False" Width="[float]40" xmlns="http://www.ni.com/PanelCommon" />
 		</HtmlFrontPanel>
 		<DataItem AdaptToDiagramType="True" DataType="Double" Id="e55f9284d80f491aa02cc8c9db8d7b30" Name="endring" xmlns="http://www.ni.com/MocCommon">
 			<p.DefaultValue>0x4024000000000000</p.DefaultValue>
