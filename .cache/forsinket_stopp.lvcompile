@@ -72,6 +72,25 @@
     <LastTotalTime>00:00:00</LastTotalTime>
     <StartTime>2022-12-03T18:26:00.4580165Z</StartTime>
     <HasChild>False</HasChild>
+    <IsStale>True</IsStale>
+    <QualifiedName></QualifiedName>
+    <HintEnvoy>::VireoDevSystem::Interactive::WebApp.gcomp</HintEnvoy>
+  </Job>
+  <Job OutputType="WebApplication">
+    <CurrentBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>3e8a0963-c6b2-482f-ada2-4fdf5b16df14</BuildId>
+    </CurrentBuildId>
+    <RootBuildId>
+      <ComponentSubtypeIdentifier>WebApplication</ComponentSubtypeIdentifier>
+      <BuildId>3e8a0963-c6b2-482f-ada2-4fdf5b16df14</BuildId>
+    </RootBuildId>
+    <OutputPath>Builds\WebApp_Default Web Server</OutputPath>
+    <BuildName>WebApp</BuildName>
+    <State>Success</State>
+    <LastTotalTime>00:00:01</LastTotalTime>
+    <StartTime>2023-06-19T12:20:35.3411335Z</StartTime>
+    <HasChild>False</HasChild>
     <IsStale>False</IsStale>
     <QualifiedName>::VireoDevSystem::Interactive::WebApp.gcomp</QualifiedName>
     <HintEnvoy>::VireoDevSystem::Interactive::WebApp.gcomp</HintEnvoy>
